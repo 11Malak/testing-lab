@@ -1,0 +1,14 @@
+{
+  "name": "testing-lab",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:11Malak/testing-lab.git",
+  "author": "eduardo <eduvela_94@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^26.4.2"
+  },
+  "scripts": {
+    "test": "yarn jest"
+  }
+}
